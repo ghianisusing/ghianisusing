@@ -1,85 +1,111 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Ghian</h1>
-<h3 align="center">AI Software & Systems Engineer</h3>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ghianisusing">
-    <img src="https://komarev.com/ghpvc/?username=ghianisusing&label=Profile%20views&color=00FFFF&style=flat-square" alt="ghianisusing's profile views" />
-  </a>
-</p>
-
-<img src="https://i.pinimg.com/originals/f5/03/b5/f503b5d3eceb6a2e621773eb53a2f39c.gif" alt="Banner" width="100%" />
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/ghianisusing">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ghianisusing&cache_seconds=7200&layout=compact&theme=merko&border_radius=10" alt="ghianisusing's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=ghianisusing&theme=merko&hide_border=true&cache_seconds=86400" alt="ghianisusing's GitHub Streak" width="49%" />
-</p>
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+
+<p><code>ghianisusing@github ~ $ neofetch --live</code></p>
+
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<tr>
+<td width="100%" style="width:100%;" valign="middle" align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=ghianisusing&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172601254%3Fu%3D10c3afdfee28ab8bc747d5ebba24f693b367f860%26v%3D4&style=terminal&color=1&v=terminal-portrait-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/portrait?username=ghianisusing&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172601254%3Fu%3D10c3afdfee28ab8bc747d5ebba24f693b367f860%26v%3D4&style=terminal&color=1&v=terminal-portrait-1&mode=dark" width="680" alt="ghianisusing animated terminal portrait" />
+</picture>
+</td>
+</tr>
+</table>
+
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<tr>
+<td width="100%" style="width:100%;" valign="middle" align="center">
+<pre><code>┌─[ IDENTITY ]──────────────────┐
+│ ghianisusing                 │
+│ Frontend or full-stack engin │
+├─[ TELEMETRY ]─────────────────┤
+│ repos                 10 │
+│ stars                  0 │
+│ contributions        166 │
+│ followers              1 │
+│ location      Cebu, Philippi │
+└───────────────────────────────┘</code></pre>
+</td>
+</tr>
+</table>
+
+<p><strong>● ONLINE</strong> · AI Software &amp; Systems Engineer</p>
 </div>
 
+<h2><code>$ tail -n 7 /var/log/build.log</code></h2>
 
-## 🛠️ Languages & Tools
+<pre><code>[ok] identity loaded: ghianisusing
+[ok] role detected: Frontend or full-stack engineer
+[ok] environment: GitHub public cloud
+[ok] workspace: independent
+[ok] coordinates: Cebu, Philippines
+[ok] primary stack: Python · JavaScript · CSS · PHP
+[run] AI Software &amp; Systems Engineer</code></pre>
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
+<p>Building, learning, and shipping useful systems in public.</p>
 
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
-
-</p>
+<h2><code>$ which --all toolchain</code></h2>
 
 <p align="center">
-  <a href="https://github.com/ghianisusing">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ghianisusing&langs_count=8&layout=compact&theme=merko&border_radius=10" alt="Top Languages" />
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=ghianisusing&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172601254%3Fu%3D10c3afdfee28ab8bc747d5ebba24f693b367f860%26v%3D4&style=terminal&v=terminal-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=ghianisusing&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172601254%3Fu%3D10c3afdfee28ab8bc747d5ebba24f693b367f860%26v%3D4&style=terminal&v=terminal-stack-1&mode=dark" width="100%" alt="ghianisusing terminal toolchain" />
+</picture>
 </p>
 
-## 🔗 Connect with Me
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>62%</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>14%</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>10%</sub></td>
+<td width="20%" align="center"><strong>PHP</strong><br /><sub>9%</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>6%</sub></td>
+</tr>
+</table>
+
+<h2><code>$ git launchpad --all</code></h2>
+
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ghianisusing&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172601254%3Fu%3D10c3afdfee28ab8bc747d5ebba24f693b367f860%26v%3D4&repos=ghianisusing%2FPathwise-tutor-agent%2Cghianisusing%2FLabTrack%2Cghianisusing%2FNaviCare%2Cghianisusing%2FStudy-Flow%2Cghianisusing%2Fdeskyard-ecommerce-agent&v=terminal-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=ghianisusing&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172601254%3Fu%3D10c3afdfee28ab8bc747d5ebba24f693b367f860%26v%3D4&repos=ghianisusing%2FPathwise-tutor-agent%2Cghianisusing%2FLabTrack%2Cghianisusing%2FNaviCare%2Cghianisusing%2FStudy-Flow%2Cghianisusing%2Fdeskyard-ecommerce-agent&v=terminal-projects-1&mode=dark" width="860" alt="ghianisusing terminal project launchpad" />
+</picture></p>
+
+<table width="100%">
+<tr>
+<td width="20%" valign="top"><p><code>Pathwise-tutor-agent</code></p><p>Pathwise is an AI-powered tutoring platform that provides personalized quizzes, automatic answer grading, progress tracking, mastery analytics, and ad</p><p><sub>Python · ⭐ 0</sub></p><a href="https://github.com/ghianisusing/Pathwise-tutor-agent">open →</a></td>
+<td width="20%" valign="top"><p><code>LabTrack</code></p><p>School Purpose (Laboratory Equipment Tracking and Management)</p><p><sub>PHP · ⭐ 0</sub></p><a href="https://github.com/ghianisusing/LabTrack">open →</a></td>
+<td width="20%" valign="top"><p><code>NaviCare</code></p><p>AI-powered healthcare navigation system that helps patients understand their healthcare needs, access trusted health information, assess symptom urgen</p><p><sub>Python · ⭐ 0</sub></p><a href="https://github.com/ghianisusing/NaviCare">open →</a></td>
+<td width="20%" valign="top"><p><code>Study-Flow</code></p><p>A Django-based study planner featuring subject management, assignment tracking, calendar view, dashboard analytics, AJAX interactions, dark mode, sear</p><p><sub>HTML · ⭐ 0</sub></p><a href="https://github.com/ghianisusing/Study-Flow">open →</a></td>
+<td width="20%" valign="top"><p><code>deskyard-ecommerce-agent</code></p><p>Django e-commerce demo with an AI customer support agent that answers from real product and order data — built while learning full-stack + LLM integra</p><p><sub>Python · ⭐ 0</sub></p><a href="https://github.com/ghianisusing/deskyard-ecommerce-agent">open →</a></td>
+</tr>
+</table>
+
+<h2><code>$ git status --short</code></h2>
+
+<p align="center"><strong>working tree: clean · shipping consistently</strong></p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ghianarrofo/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;
-  <a href="mailto:arrofoghian0@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>&nbsp;
-  <a href="https://ghianisusing-portfolio.vercel.app/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=ghianisusing&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172601254%3Fu%3D10c3afdfee28ab8bc747d5ebba24f693b367f860%26v%3D4&style=terminal&v=terminal-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=ghianisusing&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172601254%3Fu%3D10c3afdfee28ab8bc747d5ebba24f693b367f860%26v%3D4&style=terminal&v=terminal-stats-1&mode=dark" width="100%" alt="ghianisusing terminal contribution statistics" />
+</picture>
 </p>
+
+<h2><code>$ git log --graph --all</code></h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=ghianisusing&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172601254%3Fu%3D10c3afdfee28ab8bc747d5ebba24f693b367f860%26v%3D4&v=terminal-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=ghianisusing&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172601254%3Fu%3D10c3afdfee28ab8bc747d5ebba24f693b367f860%26v%3D4&v=terminal-heatmap-1&mode=dark" width="100%" alt="ghianisusing terminal contribution graph" />
+</picture>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
-</div>
+<h2><code>$ ssh ghianisusing@github</code></h2>
 
+<p>Ready to pair on a useful problem, review a systems decision, or ship the next small thing.</p>
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=ghianisusing&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172601254%3Fu%3D10c3afdfee28ab8bc747d5ebba24f693b367f860%26v%3D4&v=terminal-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=ghianisusing&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172601254%3Fu%3D10c3afdfee28ab8bc747d5ebba24f693b367f860%26v%3D4&v=terminal-social-1&mode=dark" width="100%" alt="ghianisusing terminal contact links" />
+</picture></p>
+<p align="center"><a href="https://github.com/ghianisusing">GitHub</a></p>
+<p align="center"><sub>ghianisusing · terminal command center generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
