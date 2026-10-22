@@ -61,7 +61,7 @@ learning:
 ## `$ git log --graph`
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/6366f1/ghianisusing" alt="ghianisusing's contribution graph" width="100%" />
+  <img src="https://ghchart.rshah.org/000000/ghianisusing" alt="ghianisusing's contribution graph" width="100%" />
 </p>
 
 ## `$ ping ghianisusing`
