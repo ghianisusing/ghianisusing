@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  📍 <b>Cebu, Philippines</b> &nbsp;|&nbsp; 🤖 <b>AI Software & Systems Engineer</b> &nbsp;|&nbsp; 🌱 <b>Learning open source</b>
+   <b>Cebu, Philippines</b> &nbsp;|&nbsp;  <b>AI Software & Systems Engineer</b> &nbsp;|&nbsp;  <b>Learning open source</b>
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 ```yaml
 name:      Ghian Arrofo
-alias:     ghianisusing
+user:     ghianisusing
 location:  Cebu, Philippines 🇵🇭
 
 focus:
@@ -32,11 +32,11 @@ learning:
 
 ## `$ ls ./projects`
 
-- 🎓 [**Pathwise**](https://github.com/ghianisusing/Pathwise-tutor-agent) — AI tutor with personalized quizzes, auto-grading, and mastery tracking
-- 🩺 [**NaviCare**](https://github.com/ghianisusing/NaviCare) — AI healthcare navigator that helps patients gauge symptom urgency and find trusted info
-- 🛒 [**Deskyard**](https://github.com/ghianisusing/deskyard-ecommerce-agent) — E-commerce demo with a support agent grounded in real product and order data
-- 📚 [**Study Flow**](https://github.com/ghianisusing/Study-Flow) — Django study planner with assignments, calendar view, and dashboard analytics
-- 🧪 [**LabTrack**](https://github.com/ghianisusing/LabTrack) — Laboratory equipment tracking and management system for school
+-  [**Pathwise**](https://github.com/ghianisusing/Pathwise-tutor-agent) — AI tutor with personalized quizzes, auto-grading, and mastery tracking
+-  [**NaviCare**](https://github.com/ghianisusing/NaviCare) — AI healthcare navigator that helps patients gauge symptom urgency and find trusted info
+-  [**Deskyard**](https://github.com/ghianisusing/deskyard-ecommerce-agent) — E-commerce demo with a support agent grounded in real product and order data
+-  [**Study Flow**](https://github.com/ghianisusing/Study-Flow) — Django study planner with assignments, calendar view, and dashboard analytics
+-  [**LabTrack**](https://github.com/ghianisusing/LabTrack) — Laboratory equipment tracking and management system for school
 
 ## `$ ls ./stack`
 
@@ -70,3 +70,4 @@ learning:
 
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ghianisusing)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghianarrofo/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:arrofoghian0@gmail.com)
