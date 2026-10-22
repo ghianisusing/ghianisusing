@@ -108,4 +108,3 @@
   <img src="https://www.gitskins.com/api/section/social?username=ghianisusing&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F172601254%3Fu%3D10c3afdfee28ab8bc747d5ebba24f693b367f860%26v%3D4&v=terminal-social-1&mode=dark" width="100%" alt="ghianisusing terminal contact links" />
 </picture></p>
 <p align="center"><a href="https://github.com/ghianisusing">GitHub</a></p>
-<p align="center"><sub>ghianisusing · terminal command center generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
